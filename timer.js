@@ -41,5 +41,5 @@ function pad(value) {
 }
 const timer = new CountdownTimer({
   selector: '#timer-1',
-  targetDate: new Date('June 28, 2021, 00:00'),
+  targetDate: new Date('June 28, 2023, 00:00'),
 });
